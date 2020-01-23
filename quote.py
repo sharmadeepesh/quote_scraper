@@ -86,4 +86,3 @@ def main():
             get_alpha(link)
 
 main()
-get_json(quotes,authors)
